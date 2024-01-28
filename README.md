@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning java and python ...
   
-- 📫 How to reach me mail me harshmishra73385@gmail.com
+- 📫  mail me harshmishra73385@gmail.com
 
 
 <!---
